@@ -32,6 +32,7 @@ https://budget-to-go.herokuapp.com/
   
   ## Credits
 This application uses Node dependencies.
+This application is deployed on Heroku with MondoDB Atlas.
   
   ## License
   
