@@ -26,7 +26,7 @@ The following node dependencies are required:
 AS AN avid traveller I WANT to be able to track my withdrawals and deposits with or without a data internet connection SO THAT my account balance is accurate when I am traveling.
 
 ## Deployed Application
-https://suebee21.github.io/budget-to-go/
+https://budget-to-go.herokuapp.com/
 <img width="1792" alt="budget-to-go-image" src="https://user-images.githubusercontent.com/68358265/102689580-32202280-41cd-11eb-858f-ac317b1948f8.png">
 
   
