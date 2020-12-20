@@ -27,12 +27,12 @@ AS AN avid traveller I WANT to be able to track my withdrawals and deposits with
 
 ## Deployed Application
 https://budget-to-go.herokuapp.com/
-<img width="1792" alt="budget-to-go-image" src="https://user-images.githubusercontent.com/68358265/102689580-32202280-41cd-11eb-858f-ac317b1948f8.png">
+<img width="1792" alt="Screen Shot 2020-12-20 at 10 10 50 AM" src="https://user-images.githubusercontent.com/68358265/102716740-c3fe5d00-42ab-11eb-9ce4-33c717afa476.png">
 
   
   ## Credits
 This application uses Node dependencies.
-This application is deployed on Heroku with MondoDB Atlas.
+This application is deployed using Heroku and MondoDB Atlas.
   
   ## License
   
